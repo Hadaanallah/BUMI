@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://twitter.com/intent/tweet?text=Sebuah%20daftar%20kurasi%20dari%20akun%2C%20situs%20web%2C%20atau%20halaman%20peduli%20bumi%20yang%20tersebar%20di%20internet%2E%20Ayo%20selamatkan%20manusia%20dari%20perubahan%20iklim%2E&url=https://github.com/Hadaanallah/BUMI&hashtags=PerubahanIklim,ClimateChange,Bumi">
-    <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Share%20on%20twitter&style=social" target="_blank" />
+    <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Bagikan%20di%20twitter&style=social" target="_blank" />
   </a>
 </p>
 
@@ -14,14 +14,21 @@ Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang terseba
 > - Jangan ragu untuk kontribusi, saran dan koreksi, baca keterangannya dibagian [*contributing.md*](CONTRIBUTING.md)
 >
 
+- **Conservation International Indonesia** - Kami bekerja untuk memastikan planet yang sehat dan produktif bagi kita semua - karena manusia membutuhkan alam untuk berkembang. [Situs Indonesia](https://www.conservation.org/indonesia), [Wikipedia](https://id.wikipedia.org/wiki/Conservation_International), [Facebook](https://www.facebook.com/ConservationInternationalIndonesia), [Twitter](https://twitter.com/conservationID), [Youtube](https://www.youtube.com/c/ConservationInternationalIndonesia), [Instagram](https://www.instagram.com/conservationid/)
+
+- **Diet Kantong Plastik** - Gerakan nasional yang mengajak masyarakat untuk lebih bijak dalam menggunakan kantong plastik dan plastik sekali pakai lainnya. [Situs](http://dietkantongplastik.info/), [Facebook](https://www.facebook.com/DietKantongPlastik), [Twitter](https://twitter.com/idDKP), [Youtube](https://www.youtube.com/user/idDKP), [Instagram](https://www.instagram.com/iddkp/)
+
 - **Greenpeace Indonesia** - Hadir karena bumi yang rapuh ini perlu suara. Butuh solusi. Butuh perubahan. Butuh aksi. [Situs Indonesia](https://www.greenpeace.org/indonesia/), [Wikipedia](https://id.wikipedia.org/wiki/Greenpeace), [Facebook](https://www.facebook.com/GreenpeaceIndonesia/), [Twitter](https://twitter.com/greenpeaceid), [Youtube](https://www.youtube.com/user/GreenpeaceIndonesia), [Instagram](https://www.instagram.com/greenpeaceid/)
+
 - **Greta Thunberg** - Aktivis lingkungan dan iklim berumur 17 tahun dengan Asperger. [Wikipedia](https://id.wikipedia.org/wiki/Greta_Thunberg), [Facebook](https://www.facebook.com/gretathunbergsweden), [Twitter](https://twitter.com/gretathunberg), [Instagram](https://www.instagram.com/gretathunberg/)
 
-- **Jaringan Advokasi Tambang (JATAM)** - jaringan organisasi non pemerintah (ornop) dan organisasi komunitas yang memiliki kepedulian terhadap masalah-masalah HAM, gender, lingkungan hidup, masyarakat adat dan isu-isu keadilan sosial dalam industri pertambangan dan migas. [Situs](https://www.jatam.org/), [Facebook](https://www.facebook.com/JaringanAdvokasiTambang/), [Twitter](https://twitter.com/jatamnas), [Youtube](https://www.youtube.com/c/RumahPerlawananJATAM), [Instagram](https://www.instagram.com/jatamnas/)
+- **Hijauku** - Media akar rumput independen yang berdiri pada 2011. Portal hijau pertama di Indonesia yang secara konsisten menyebarkan inspirasi hijau dan solusi ramah lingkungan. [Situs](https://hijauku.com/), [Facebook](https://www.facebook.com/hijaukudotcom), [Twitter](https://twitter.com/Hijaukudotcom), [Instagram](https://www.instagram.com/hijaukudotcom/)
 
-- **Wahana Lingkungan Hidup Indonesia (WALHI)** - Organisasi gerakan lingkungan hidup terbesar di Indonesia, secara aktif mendorong upaya-upaya penyelamatan dan pemulihan lingkungan hidup di Indonesia. [Situs](https://www.walhi.or.id/), [Wikipedia](https://id.wikipedia.org/wiki/Wahana_Lingkungan_Hidup_Indonesia), [Facebook](https://www.facebook.com/WALHI), [Twitter](https://twitter.com/walhinasional), [Youtube](https://www.youtube.com/user/multimediawalhi), [Instagram](https://www.instagram.com/walhi.nasional/)
+- **Jaringan Advokasi Tambang (JATAM)** - Jaringan organisasi non pemerintah (ornop) dan organisasi komunitas yang memiliki kepedulian terhadap masalah-masalah HAM, gender, lingkungan hidup, masyarakat adat dan isu-isu keadilan sosial dalam industri pertambangan dan migas. [Situs](https://www.jatam.org/), [Facebook](https://www.facebook.com/JaringanAdvokasiTambang/), [Twitter](https://twitter.com/jatamnas), [Youtube](https://www.youtube.com/c/RumahPerlawananJATAM), [Instagram](https://www.instagram.com/jatamnas/)
 
 - **Mongabay Indonesia** - Platform berita ilmu lingkungan dan konservasi nirlaba, dengan lebih dari 500 koresponden di 70 negara. [Situs Indonesia](https://www.mongabay.co.id/), [Wikipedia](https://en.wikipedia.org/wiki/Mongabay), [Facebook](https://www.facebook.com/MongabayIndonesia/), [Twitter](https://twitter.com/mongabayID), [Instagram](https://www.instagram.com/mongabay.id/)
+
+- **Wahana Lingkungan Hidup Indonesia (WALHI)** - Organisasi gerakan lingkungan hidup terbesar di Indonesia, secara aktif mendorong upaya-upaya penyelamatan dan pemulihan lingkungan hidup di Indonesia. [Situs](https://www.walhi.or.id/), [Wikipedia](https://id.wikipedia.org/wiki/Wahana_Lingkungan_Hidup_Indonesia), [Facebook](https://www.facebook.com/WALHI), [Twitter](https://twitter.com/walhinasional), [Youtube](https://www.youtube.com/user/multimediawalhi), [Instagram](https://www.instagram.com/walhi.nasional/)
 
 ## Video
 
