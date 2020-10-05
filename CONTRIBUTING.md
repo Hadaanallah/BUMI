@@ -6,7 +6,13 @@ Silahkan buat Github ***issue*** jika ada saran, masukan, koreksi atau yang lain
 
 **P:** Saya ingin berkontribusi, kira-kira apa yang dapat saya lakukan?
 
-**J:** Kamu bisa mengoreksi penulisan yang salah ejaan, tautan yang rusak, urutan yang salah, penyebutan yang salah.
+**J:** Kamu bisa mengoreksi penulisan yang salah ejaan, tautan yang rusak atau telah diubah, urutan yang salah, penyebutan yang salah, dan yang utama menambahkan isi untuk daftar kurasi.
+
+---
+
+**P:** Bolehkan saya membuat usul atau saran?
+
+**J:** Tentu saja boleh, apapun itu untuk membuat daftar kurasi ini lebih baik dan lebih berguna. Misal, jika ada hal yang menurutmu perlu diajukan sebab belum ada, dan kamu rasa bagian itu perlu untuk ditambahkan, kamu sangat boleh mengajukannya.
 
 ---
 
