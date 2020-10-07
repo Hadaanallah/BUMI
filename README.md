@@ -25,6 +25,8 @@ Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang terseba
 
 - **Jaringan Advokasi Tambang (JATAM)** - Jaringan organisasi non pemerintah (ornop) dan organisasi komunitas yang memiliki kepedulian terhadap masalah-masalah HAM, gender, lingkungan hidup, masyarakat adat dan isu-isu keadilan sosial dalam industri pertambangan dan migas. [Situs](https://www.jatam.org/), [Facebook](https://www.facebook.com/JaringanAdvokasiTambang/), [Twitter](https://twitter.com/jatamnas), [Youtube](https://www.youtube.com/c/RumahPerlawananJATAM), [Instagram](https://www.instagram.com/jatamnas/)
 
+- **Jejak.in** - Sistem pemantauan perangkat lunak dalam mengelola tumbuh kembang pohon dan tanaman. [Situs](https://jejak.in/), [Facebook](http://bit.ly/JejakinFB), [Linkedin](https://www.linkedin.com/company/jejak-in/), [Instagram](https://www.instagram.com/jejak_in/), [Youtube](https://www.youtube.com/channel/UCNdizMJb0HL8DMojMcnmf7A)
+
 - **Lindungi Hutan** - Platform crowdsourcing penggalangan dana online untuk konservasi hutan dan lingkungan. [Situs](https://lindungihutan.com/), [Facebook](https://facebook.com/lindungihutandotcom/), [Twitter](https://twitter.com/LindungiHutan), [Instagram](https://www.instagram.com/lindungihutan/)
 
 - **Mongabay Indonesia** - Platform berita ilmu lingkungan dan konservasi nirlaba, dengan lebih dari 500 koresponden di 70 negara. [Situs Indonesia](https://www.mongabay.co.id/), [Wikipedia](https://en.wikipedia.org/wiki/Mongabay), [Facebook](https://www.facebook.com/MongabayIndonesia/), [Twitter](https://twitter.com/mongabayID), [Instagram](https://www.instagram.com/mongabay.id/)
