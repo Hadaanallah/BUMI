@@ -7,12 +7,11 @@
 </p>
 
 Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang tersebar di internet. Ayo selamatkan manusia dari perubahan iklim.
->
+
 > **Catatan** :
 >
 > - Pada daftar ini tautan ke halaman web berbahasa Indonesia lebih diutamakan jika tersedia, jika tidak tersedia makan dipilih bahasa lain, hal ini berlaku misalnya pada organisasi internasional atau aktivis mancanegara.
-> - Jangan ragu untuk kontribusi, saran dan koreksi, baca keterangannya dibagian [*contributing.md*](CONTRIBUTING.md)
->
+> - Jangan ragu untuk kontribusi, saran dan koreksi, baca keterangannya dibagian [_contributing.md_](CONTRIBUTING.md)
 
 - **Conservation International Indonesia** - Kami bekerja untuk memastikan planet yang sehat dan produktif bagi kita semua - karena manusia membutuhkan alam untuk berkembang. [Situs Indonesia](https://www.conservation.org/indonesia), [Wikipedia](https://id.wikipedia.org/wiki/Conservation_International), [Facebook](https://www.facebook.com/ConservationInternationalIndonesia), [Twitter](https://twitter.com/conservationID), [Youtube](https://www.youtube.com/c/ConservationInternationalIndonesia), [Instagram](https://www.instagram.com/conservationid/)
 
@@ -26,6 +25,8 @@ Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang terseba
 
 - **Jaringan Advokasi Tambang (JATAM)** - Jaringan organisasi non pemerintah (ornop) dan organisasi komunitas yang memiliki kepedulian terhadap masalah-masalah HAM, gender, lingkungan hidup, masyarakat adat dan isu-isu keadilan sosial dalam industri pertambangan dan migas. [Situs](https://www.jatam.org/), [Facebook](https://www.facebook.com/JaringanAdvokasiTambang/), [Twitter](https://twitter.com/jatamnas), [Youtube](https://www.youtube.com/c/RumahPerlawananJATAM), [Instagram](https://www.instagram.com/jatamnas/)
 
+- **Lindungi Hutan** - Platform crowdsourcing penggalangan dana online untuk konservasi hutan dan lingkungan. [Situs](https://lindungihutan.com/), [Facebook](https://facebook.com/lindungihutandotcom/), [Twitter](https://twitter.com/LindungiHutan), [Instagram](https://www.instagram.com/lindungihutan/)
+
 - **Mongabay Indonesia** - Platform berita ilmu lingkungan dan konservasi nirlaba, dengan lebih dari 500 koresponden di 70 negara. [Situs Indonesia](https://www.mongabay.co.id/), [Wikipedia](https://en.wikipedia.org/wiki/Mongabay), [Facebook](https://www.facebook.com/MongabayIndonesia/), [Twitter](https://twitter.com/mongabayID), [Instagram](https://www.instagram.com/mongabay.id/)
 
 - **Wahana Lingkungan Hidup Indonesia (WALHI)** - Organisasi gerakan lingkungan hidup terbesar di Indonesia, secara aktif mendorong upaya-upaya penyelamatan dan pemulihan lingkungan hidup di Indonesia. [Situs](https://www.walhi.or.id/), [Wikipedia](https://id.wikipedia.org/wiki/Wahana_Lingkungan_Hidup_Indonesia), [Facebook](https://www.facebook.com/WALHI), [Twitter](https://twitter.com/walhinasional), [Youtube](https://www.youtube.com/user/multimediawalhi), [Instagram](https://www.instagram.com/walhi.nasional/)
@@ -34,6 +35,6 @@ Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang terseba
 
 - [Sexy Killers](https://www.youtube.com/watch?v=qlB7vg4I-To) - Film dokumenter Indonesia tahun 2019 tentang industri pertambangan batubara yang merusak lingkungan dan hubungannya dengan badan perpolitikan Indonesia.
 
-    ### Daftar Putar & Seri
+  ### Daftar Putar & Seri
 
   - [Ekspedisi Indonesia Biru](https://www.youtube.com/playlist?list=PLpXudXDFSnuqPoc4xnNq2uEM4PkzITNkH) - [Catatan oleh videografer](https://www.facebook.com/notes/dandhy-dwi-laksono/tentang-ekspedisi-indonesia-biru/10153037520116095/)
