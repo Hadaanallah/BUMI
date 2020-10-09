@@ -26,9 +26,19 @@ Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang terseba
 
 - **Jaringan Advokasi Tambang (JATAM)** - Jaringan organisasi non pemerintah (ornop) dan organisasi komunitas yang memiliki kepedulian terhadap masalah-masalah HAM, gender, lingkungan hidup, masyarakat adat dan isu-isu keadilan sosial dalam industri pertambangan dan migas. [Situs](https://www.jatam.org/), [Facebook](https://www.facebook.com/JaringanAdvokasiTambang/), [Twitter](https://twitter.com/jatamnas), [Youtube](https://www.youtube.com/c/RumahPerlawananJATAM), [Instagram](https://www.instagram.com/jatamnas/)
 
+- **Koalisi Pemuda Hijau Indonesia (KOPHI)** - Koalisi Pemuda Hijau Indonesia atau KOPHI adalah sebuah organisasi aktivis pelestarian lingkungan hidup Indonesia. [Situs](http://kophi.or.id/), [Twitter](https://twitter.com/kophi_), [Instagram](https://www.instagram.com/_kophi/)
+
 - **Mongabay Indonesia** - Platform berita ilmu lingkungan dan konservasi nirlaba, dengan lebih dari 500 koresponden di 70 negara. [Situs Indonesia](https://www.mongabay.co.id/), [Wikipedia](https://en.wikipedia.org/wiki/Mongabay), [Facebook](https://www.facebook.com/MongabayIndonesia/), [Twitter](https://twitter.com/mongabayID), [Instagram](https://www.instagram.com/mongabay.id/)
 
+- **PEKA Indonesia Foundation** - Yayasan Peduli Konservasi Alam Indonesia (PEKA Indonesia) telah berdiri sejak 25 Agustus 2000 di Kota Bogor, Jawa Barat. Organisasi peduli konservasi alam ini fokus terhadap penelitian, pendidikan konservasi, dan pengembangan masyarakat. Selain itu juga turut mempromosikan konsep ”Ecosystem Health” (kesehatan ekosistem) di Indonesia. [Situs Indonesia](https://peka-indonesia.org/), [Facebook](https://www.facebook.com/yayasanpekaindonesia/), [Twitter](https://twitter.com/peka_id)
+
 - **Wahana Lingkungan Hidup Indonesia (WALHI)** - Organisasi gerakan lingkungan hidup terbesar di Indonesia, secara aktif mendorong upaya-upaya penyelamatan dan pemulihan lingkungan hidup di Indonesia. [Situs](https://www.walhi.or.id/), [Wikipedia](https://id.wikipedia.org/wiki/Wahana_Lingkungan_Hidup_Indonesia), [Facebook](https://www.facebook.com/WALHI), [Twitter](https://twitter.com/walhinasional), [Youtube](https://www.youtube.com/user/multimediawalhi), [Instagram](https://www.instagram.com/walhi.nasional/)
+
+- **WWF Indonesia** - WWF adalah sebuah organisasi non-pemerintah internasional yang menangani masalah-masalah tentang konservasi, penelitian dan restorasi lingkungan, dulunya bernama World Wildlife Fund dan masih menjadi nama resmi di Kanada dan Amerika Serikat. [Situs](https://www.wwf.id/), [Twitter](https://twitter.com/WWF_ID), [Instagram](https://www.instagram.com/wwf_id)
+
+- **Youth For Climate Change Indonesia (YFCCINDONESIA)** - YFCCIndonesia berdiri sejak 28 oktober 2014, organisasi ini juga membuka program sukarelawan, organisasi ini merupakan organisasi pemuda di bidang perubahan iklim terbesar di Indonesia. [Situs](https://yfccid.wordpress.com/), [Facebook](https://www.facebook.com/YFCCIndonesia/), [Twitter](https://twitter.com/yfccindonesia), [Instagram](https://www.instagram.com/yfccindonesia/)
+
+- **350.org** - 350.org adalah sebuah LSM lingkungan internasional yang menangani krisis iklim. Organisasi ini memiliki tujuan untuk mengakhiri penggunaan bahan bakar fosil dan beralih ke energi terbarukan dengan membangun gerakan akar rumput global. [Situs](https://world.350.org/id/), [Facebook](https://www.facebook.com/350Indonesia), [Twitter](https://twitter.com/350indonesia), [Instagram](https://www.instagram.com/350id)
 
 ## Video
 
