@@ -30,6 +30,8 @@ Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang terseba
 
 - **Wahana Lingkungan Hidup Indonesia (WALHI)** - Organisasi gerakan lingkungan hidup terbesar di Indonesia, secara aktif mendorong upaya-upaya penyelamatan dan pemulihan lingkungan hidup di Indonesia. [Situs](https://www.walhi.or.id/), [Wikipedia](https://id.wikipedia.org/wiki/Wahana_Lingkungan_Hidup_Indonesia), [Facebook](https://www.facebook.com/WALHI), [Twitter](https://twitter.com/walhinasional), [Youtube](https://www.youtube.com/user/multimediawalhi), [Instagram](https://www.instagram.com/walhi.nasional/)
 
+- **Banksampah.id (SMASH)** - aplikasi berbasis web & mobile yang bertujuan untuk mendukung kegiatan operasional Bank Sampah di Indonesia. [Situs](https://banksampah.id/), [Wikipedia](https://id.wikipedia.org/wiki/), [Facebook](https://facebook.com/banksampah.id), [Twitter](https://twitter.com/), [Youtube](https://www.youtube.com), [Instagram](https://instagram.com/smashid_shi)
+
 ## Video
 
 - [Sexy Killers](https://www.youtube.com/watch?v=qlB7vg4I-To) - Film dokumenter Indonesia tahun 2019 tentang industri pertambangan batubara yang merusak lingkungan dan hubungannya dengan badan perpolitikan Indonesia.
