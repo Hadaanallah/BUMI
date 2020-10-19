@@ -11,7 +11,8 @@ Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang terseba
 > **Catatan** :
 >
 > - Pada daftar ini tautan ke halaman web berbahasa Indonesia lebih diutamakan jika tersedia, jika tidak tersedia makan dipilih bahasa lain, hal ini berlaku misalnya pada organisasi internasional atau aktivis mancanegara.
-> - Jangan ragu untuk kontribusi, saran dan koreksi, baca keterangannya dibagian [_contributing.md_](CONTRIBUTING.md)
+> - Jangan ragu untuk kontribusi, saran dan koreksi, baca keterangannya dibagian [*contributing.md*](CONTRIBUTING.md)
+>
 
 - **Conservation International Indonesia** - Kami bekerja untuk memastikan planet yang sehat dan produktif bagi kita semua - karena manusia membutuhkan alam untuk berkembang. [Situs Indonesia](https://www.conservation.org/indonesia), [Wikipedia](https://id.wikipedia.org/wiki/Conservation_International), [Facebook](https://www.facebook.com/ConservationInternationalIndonesia), [Twitter](https://twitter.com/conservationID), [Youtube](https://www.youtube.com/c/ConservationInternationalIndonesia), [Instagram](https://www.instagram.com/conservationid/)
 
@@ -35,6 +36,6 @@ Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang terseba
 
 - [Sexy Killers](https://www.youtube.com/watch?v=qlB7vg4I-To) - Film dokumenter Indonesia tahun 2019 tentang industri pertambangan batubara yang merusak lingkungan dan hubungannya dengan badan perpolitikan Indonesia.
 
-  ### Daftar Putar & Seri
+    ### Daftar Putar & Seri
 
   - [Ekspedisi Indonesia Biru](https://www.youtube.com/playlist?list=PLpXudXDFSnuqPoc4xnNq2uEM4PkzITNkH) - [Catatan oleh videografer](https://www.facebook.com/notes/dandhy-dwi-laksono/tentang-ekspedisi-indonesia-biru/10153037520116095/)
