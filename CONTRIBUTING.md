@@ -37,6 +37,25 @@ Peraturan bisa berubah, mohon kunjungi halaman ini secara berkala.
 
 ---
 
+**P:** Bagaimana cara membuat deskripsi atau keterangan untuk tiap isi daftar kurasi?
+
+**J:** Untuk menjaga kesesuaian, deskripsi bisa dikutip dari penjelasan di halaman resminya entah itu situs atau media sosial resminya, di halaman/bagian tentang atau mungkin bagian sejarah. Jika tidak ditemukan bisa menggunakan Wikipedia sebagai bantuan referensi. Untuk format penulisan bisa dengan hanya deskripsi, hanya slogan, atau penggabungan keduanya yang diawali slogan dan diakhiri keterangan deskriptif.
+
+---
+
+**P:** Tautan apa saja yang harus atau dianjurkan untuk dimasukkan ke tiap isi daftar kurasi dan bagaimana aturan penuliskan tautan-tautan yang ada?
+
+**J:** Karena daftar ini memang sifatnya kurasi dari halaman-halaman peduli bumi yang tersebar di internet jadi tidak menutup kemungkinan untuk memasukkan banyak tautan resmi untuk tiap satu organisasi di daftar. Akan tetapi ada batasan yang diterapkan sehingga perlu di perhatikan, misalnya pada organisasi internasional yang punya banyak akun/halaman di suatu situs untuk mewakili tiap negara operasionalnya atau juga organisasi nasional yang punya banyak akun/halaman dari cabang-cabangnya untuk setiap daerah. Untuk hal semacam itu, untuk organisasi internasional pilih halaman versi Indonesia jika ada dan untuk organisasi nasional pilih halaman nasionalnya yang utama ketimbang halaman-halaman daerahnya. Hal tersebut berlaku untuk situs resminya maupun akun media sosial resminya.  
+Kalau pun ada urutan yang yang sekarang digunakan yaitu **`Situs, Facebook, Twitter, Youtube, Instagram`** urutan ini bisa disusul dengan penambahan blog atau media sosial lainnya yang digunakan organisasi itu secara resmi, dapat juga dikurangi jika tidak ada akun/halaman resmi untuk situs-situs tersebut. Usahakan selengkap mungkin tapi dengan memperhatikan aturan yang ada.
+
+Selanjutnya ada perbedaan penyebutan/penulisan yang dipakai untuk tautan ke situs resmi yang diletakkan di daftar kurasi, yang pertama disebut **`Situs`** untuk situs yang keseluruhan memang situs lokal bukan merupakan versi Indonesia dari situs internasional, yang kedua disebut **`Situs Indonesia`** yang menerangkan kalau itu situs versi Indonesia atau halaman khusus Indonesia dari situs organisasi internasional.
+
+![Aturan penulisan organisasi lokal dan internasional](./assets/aturan-penulisan-nama-desripsi-dan-tautan-oraganisasi.png "Contoh penulisan nama organisasi, deskripsi dan tautan resmi.")
+
+Gambar : contoh penulisan untuk organisasi internasional dan lokal yang sudah diatur dengan pembedaan penulisan situs resmi, juga pada namanya ditambahkan kata Indonesia sebagai akhiran untuk cabang atau versi Indonesia dari organisasi internasional.
+
+---
+
 ## Aturan kontribusi langsung ke repositori Github
 
 - Gunakan Bahasa Indonesia yang baik dan benar serta mudah dimengerti.
