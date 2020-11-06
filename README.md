@@ -7,7 +7,7 @@
 </p>
 
 Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang tersebar di internet. Ayo selamatkan manusia dari perubahan iklim.
->
+
 > **Catatan** :
 >
 > - Pada daftar ini tautan ke halaman web berbahasa Indonesia lebih diutamakan jika tersedia, jika tidak tersedia makan dipilih bahasa lain, hal ini berlaku misalnya pada organisasi internasional atau aktivis mancanegara.
@@ -29,6 +29,8 @@ Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang terseba
 - **Mongabay Indonesia** - Platform berita ilmu lingkungan dan konservasi nirlaba, dengan lebih dari 500 koresponden di 70 negara. [Situs Indonesia](https://www.mongabay.co.id/), [Wikipedia](https://en.wikipedia.org/wiki/Mongabay), [Facebook](https://www.facebook.com/MongabayIndonesia/), [Twitter](https://twitter.com/mongabayID), [Instagram](https://www.instagram.com/mongabay.id/)
 
 - **Wahana Lingkungan Hidup Indonesia (WALHI)** - Organisasi gerakan lingkungan hidup terbesar di Indonesia, secara aktif mendorong upaya-upaya penyelamatan dan pemulihan lingkungan hidup di Indonesia. [Situs](https://www.walhi.or.id/), [Wikipedia](https://id.wikipedia.org/wiki/Wahana_Lingkungan_Hidup_Indonesia), [Facebook](https://www.facebook.com/WALHI), [Twitter](https://twitter.com/walhinasional), [Youtube](https://www.youtube.com/user/multimediawalhi), [Instagram](https://www.instagram.com/walhi.nasional/)
+
+- **AtmosPHere (Komunitas Peduli Bumi)** - Komunitas AtmosPHere adalah komunitas yang bergerak di bidang konservasi lingkungan. Secara aktif melakukan kampanye-kampanye lingkungan untuk membangkitkan kepedulian masyarakat Indonesia. Terbentuk tanggal 18 Maret 2008 sebagai angkatan ke-0. [Situs](https://komunitaspedulibumi.wordpress.com/), [Facebook](https://www.facebook.com/komunitaspedulibumi.atmosphere/), [Twitter](https://twitter.com/@atmos_PH), [Youtube](https://www.youtube.com/channel/UC_hFZ9pFsuA_9k6r5tVZQiQ)
 
 ## Video
 
