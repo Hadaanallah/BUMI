@@ -1,8 +1,26 @@
 # BUMI
 
-<p align="center">
-<a href="https://twitter.com/intent/tweet?text=Sebuah%20daftar%20kurasi%20dari%20akun%2C%20situs%20web%2C%20atau%20halaman%20peduli%20bumi%20yang%20tersebar%20di%20internet%2E%20Ayo%20selamatkan%20manusia%20dari%20perubahan%20iklim%2E&url=https://github.com/Hadaanallah/BUMI&hashtags=PerubahanIklim,ClimateChange,Bumi">
-    <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Bagikan%20di%20twitter&style=social" target="_blank" />
+<p
+align="center">
+  <a  style="margin-right:8px;text-decoration:"
+      href="https://xn--r1a.link/share/url?url=https%3A%2F%2Fgithub.com%2FHadaanallah%2FBUMI&text=Sebuat%20daftar%20kurasi%20dari%20akun%2C%20situs%20web%2C%20atau%20halaman%20peduli%20bumi%20yang%20tersebar%20di%20internet.%20Ayo%20selamatkan%20manusia%20dari%20perubahan%20iklim."
+      target="_blank">
+    <img  
+        src="https://img.shields.io/badge/Bagikan%20di%20Telegram-2CA5E0?logo=telegram&color=white"
+        alt="Bagikan di Telegram"
+        style="vertical-align:middle"
+        width="155"
+    />
+  </a>
+  <a  style="margin-right:8px"
+      href="https://twitter.com/intent/tweet?text=Sebuah%20daftar%20kurasi%20dari%20akun%2C%20situs%20web%2C%20atau%20halaman%20peduli%20bumi%20yang%20tersebar%20di%20internet%2E%20Ayo%20selamatkan%20manusia%20dari%20perubahan%20iklim%2E&url=https://github.com/Hadaanallah/BUMI&hashtags=PerubahanIklim,ClimateChange,Bumi"
+      target="_blank">
+    <img  
+        src="https://img.shields.io/badge/Bagikan%20di%20Twitter-1DA1F2?logo=twitter&color=white"
+        alt="Bagikan di Twitter"
+        style="vertical-align:middle"
+        width="150"
+    />
   </a>
 </p>
 
