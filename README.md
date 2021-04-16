@@ -1,5 +1,7 @@
 # BUMI
 
+Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang tersebar di internet. Ayo selamatkan manusia dari perubahan iklim.
+
 <p
 align="center">
   <a  style="margin-right:8px;text-decoration:"
@@ -24,7 +26,6 @@ align="center">
   </a>
 </p>
 
-Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang tersebar di internet. Ayo selamatkan manusia dari perubahan iklim.
 >
 > **Catatan** :
 >
