@@ -50,7 +50,7 @@ Kalau pun ada urutan yang yang sekarang digunakan yaitu **`Situs, Facebook, Twit
 
 Selanjutnya ada perbedaan penyebutan/penulisan yang dipakai untuk tautan ke situs resmi yang diletakkan di daftar kurasi, yang pertama disebut **`Situs`** untuk situs yang keseluruhan memang situs lokal bukan merupakan versi Indonesia dari situs internasional, yang kedua disebut **`Situs Indonesia`** yang menerangkan kalau itu situs versi Indonesia atau halaman khusus Indonesia dari situs organisasi internasional.
 
-![Aturan penulisan organisasi lokal dan internasional](./assets/aturan-penulisan-nama-desripsi-dan-tautan-oraganisasi.png "Contoh penulisan nama organisasi, deskripsi dan tautan resmi.")
+![Aturan penulisan organisasi lokal dan internasional](./assets/aturan-penulisan-nama-desripsi-dan-tautan-organisasi.png "Contoh penulisan nama organisasi, deskripsi dan tautan resmi.")
 
 Gambar : contoh penulisan untuk organisasi internasional dan lokal yang sudah diatur dengan pembedaan penulisan situs resmi, juga pada namanya ditambahkan kata Indonesia sebagai akhiran untuk cabang atau versi Indonesia dari organisasi internasional.
 
