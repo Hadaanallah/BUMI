@@ -49,6 +49,17 @@ align="center">
 
 - **Wahana Lingkungan Hidup Indonesia (WALHI)** - Organisasi gerakan lingkungan hidup terbesar di Indonesia, secara aktif mendorong upaya-upaya penyelamatan dan pemulihan lingkungan hidup di Indonesia. [Situs](https://www.walhi.or.id/), [Wikipedia](https://id.wikipedia.org/wiki/Wahana_Lingkungan_Hidup_Indonesia), [Facebook](https://www.facebook.com/WALHI), [Twitter](https://twitter.com/walhinasional), [Youtube](https://www.youtube.com/user/multimediawalhi), [Instagram](https://www.instagram.com/walhi.nasional/)
 
+- **Pandu Laut Nusantara** - Pandu Laut Nusantara adalah gerakan kolektif independen yang berbasis kesukarelawanan yang memiliki kesadaran bersama untuk menjaga dan merawat laut Indonesia. [Situs](https://www.pandulaut.org/), [Youtube](https://www.youtube.com/channel/UC_ZV3vzJXGu4X0EPxB68WAg), [Instagram](https://www.instagram.com/pandulaut.id/), [Facebook](https://https://www.facebook.com/pandulaut.org/), [Twitter](https://twitter.com/pandulaut)
+
+- **Youth for Climate Change (YFCC) Indonesia** - Youth for Climate Change (YFCC) Indonesia merupakan organisasi tinggat nasional yang bergerak dalam upaya adaptasi dan mitigasi perubahan iklim. [Situs](https://yfccid.wordpress.com/), [Instagram](https://www.instagram.com/yfccindonesia/), [Facebook](https://www.facebook.com/Youth%20For%20Climate%20Change/), [Twitter](https://twitter.com/yfccindonesia)
+
+- **Trash Hero Indonesia** - Trash Hero Indonesia adalah komunitas yang bernaung dibawah komunitas Trash Hero yang berbasis di Swiss yang bergerak dalam menjaga lingkungan dari sampah plastik. [Instagram](https://www.instagram.com/trashheroindonesia/), [Facebook](https://web.facebook.com/trashheroindonesia/?_rdc=1&_rdr)
+
+- **Beritalingkungan.com** - Beritalingkungan.com adalah situs berita tentang lingkungan hidup yang berfokus kepada isu lingkungan hidup perubahan iklim. [Situs](http://www.beritalingkungan.com/)
+
+- **Borneo Orangutan Survival (BOS) Foundation** - Merupakan yayasan non profit yang didedikasikan untuk konservasi orangutan yang terancam punah. [Situs](https://orangutan.or.id/), [Youtube](https://www.youtube.com/channel/UCIKyUhySXh0UBV5iRdWgeww), [Instagram](https://www.instagram.com/bosfoundation/), [Facebook](https://www.facebook.com/BOSFoundation/), [Twitter](https://twitter.com/bornean_OU)
+
+
 ## Video
 
 - [Sexy Killers](https://www.youtube.com/watch?v=qlB7vg4I-To) - Film dokumenter Indonesia tahun 2019 tentang industri pertambangan batubara yang merusak lingkungan dan hubungannya dengan badan perpolitikan Indonesia.
